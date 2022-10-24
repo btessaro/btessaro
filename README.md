@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Bruna!
+- :rainbow: Hi, I’m Bruna (she/they)!
 - 👀 I’m interested in Data Analysis and Cognitive Science
 - 🌱 I’m currently learning Python and SQL
+- :hiking_boot: I love bushwalking and hiking
+- :heart_eyes_cat: I adore cats
 - 📫 How to reach me: btessaro2@gmail.com
 
 <!---
