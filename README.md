@@ -1,9 +1,11 @@
 - :rainbow: Hi, I’m Bruna (she/they)!
-- 👀 I’m interested in Data Analysis and Cognitive Science
-- 🌱 I’m currently learning Python and SQL
-- :hiking_boot: I love bushwalking and hiking
+- :books: I'm a Linguist and currently finishing my PhD in Cognitive Science
+- 👀 I’m interested in using my research skills in a data analysis/science position
+- 🌱 Python, R, and SQL
+- :hiking_boot: I love hiking
 - :heart_eyes_cat: I adore cats
-- 📫 How to reach me: btessaro2@gmail.com
+- 📫 How to reach me: btessaro2@gmail.com and https://www.linkedin.com/in/bruna-tessaro/
+
 
 <!---
 btessaro/btessaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
