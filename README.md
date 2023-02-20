@@ -1,4 +1,4 @@
-- :rainbow: Hi, I’m Bruna (she/they)!
+- :rainbow: Hi, I’m Bruna (she/her)!
 - :books: I'm a Linguist and currently finishing my PhD in Cognitive Science
 - 👀 I’m interested in using my research skills in a data analysis/science position
 - 🌱 Python, R, and SQL
