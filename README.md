@@ -4,7 +4,7 @@
 - 🌱 Python, R, and SQL
 - :hiking_boot: I love hiking
 - :heart_eyes_cat: I adore cats
-- 📫 How to reach me: btessaro2@gmail.com and linkedin.com/in/bruna-tessaro/
+- 📫 How to reach me: btessaro2@gmail.com and [linkedin.com/in/bruna-tessaro/](https://www.linkedin.com/in/bruna-tessaro/)
 
 
 <!---
