@@ -1,7 +1,7 @@
 - :rainbow: Hi, I’m Bruna (she/her)!
 - :books: I'm a Linguist and currently finishing my PhD in Cognitive Science
-- 👀 I’m interested in using my research skills in a data analysis/science position
-- 🌱 Python, R, and SQL
+- 👀 I’m interested in using my skills in a data analysis/science position
+- 🌱 Python, R, SQL and Tableau
 - :hiking_boot: I love hiking
 - :heart_eyes_cat: I adore cats
 - 📫 How to reach me: btessaro2@gmail.com and [linkedin.com/in/bruna-tessaro/](https://www.linkedin.com/in/bruna-tessaro/)
