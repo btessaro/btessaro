@@ -1,11 +1,30 @@
 - :rainbow: Hi, I’m Bruna (she/her)!
 - :books: I'm a Linguist and currently finishing my PhD in Cognitive Science
 - 👀 I’m interested in using my skills in a data analysis/science position
-- 🌱 Python, R, SQL and Tableau
+- 🌱 Python, R, SQL, NVivo and Tableau
 - :hiking_boot: I love hiking
 - :heart_eyes_cat: I adore cats
 - 📫 How to reach me: btessaro2@gmail.com and [linkedin.com/in/bruna-tessaro/](https://www.linkedin.com/in/bruna-tessaro/)
 
+
+I'm a PhD candidate in Cognitive Science with 10+ years of experience working with multidisciplinary research. Throughout my career, I have gained experience in budgeting, funding application, grant writing, ethics application, participant recruitment, data collection, analysis and visualisation, and research dissemination. 
+
+Having lived in four different countries (Brazil, Portugal, Australia and the UK) has given me a unique perspective, appreciation and respect for cultural diversity, and has honed my flexibility skills. I thrive when working collaboratively in multicultural teams and have developed excellent communication and interpersonal skills. I am detail-oriented, efficient and analytical by nature, and I have the patience to see my projects through and assess what I've learned each time. 
+
+My experiences have given me a well-rounded understanding of the data analysis lifecycle. Throughout my career I always found myself excited about analysing data - I find it incredibly rewarding to take raw data and turn it into something meaningful. I love the entire data analysis process, from gathering and cleaning the data to visualizing it in order to draw useful insights!
+
+My passion for programming and analysing data started with R. During my PhD I worked with R and RStudio to clean, analyse and visualise my data. I also used NVivo to perform qualitative analysis on survey data, and I subsequently honed these skills in two different projects as a research assistant.
+In the past year, I've added SQL, Python and Tableau to my data toolkit.
+
+I love all aspects of working with data:
+
+Data Architecture & Collection - Designing a database before data collection that will facilitate data analysis is the dream, and I have done that in a few of the projects I've worked on.
+
+Data Wrangling - When analysing data, I believe understanding the data at hand and looking at it thoroughly is important to ensure the reliability of the results from any analysis performed. One of the things I love the most is getting the data ready for analysis and R and Python are the main tools I use for that. 
+
+Data Analysis & Visualisation - I use R, Python and Tableau to build visualisations that convey useful information to draw the best insights from the data. I use statistical packages in R and Python to run descriptive and inferential statistical analyses with the data and provide reliable and informative insights.  
+
+Check out my data projects on my repositories and my Tableau Dashboards at https://public.tableau.com/app/profile/bruna.tessaro2596.
 
 <!---
 btessaro/btessaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
