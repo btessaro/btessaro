@@ -7,7 +7,7 @@
 - 📫 How to reach me: btessaro2@gmail.com and [linkedin.com/in/bruna-tessaro/](https://www.linkedin.com/in/bruna-tessaro/)
 
 
-I'm a PhD candidate in Cognitive Science with 10+ years of experience working with multidisciplinary research. Throughout my career, I have gained experience in budgeting, funding application, grant writing, ethics application, participant recruitment, data collection, analysis and visualisation, and research dissemination. 
+I'm a PhD candidate in Cognitive Science with 10+ years of experience working with multidisciplinary research. Throughout my career, I have gained experience in data collection, analysis and visualisation. 
 
 Having lived in four different countries (Brazil, Portugal, Australia and the UK) has given me a unique perspective, appreciation and respect for cultural diversity, and has honed my flexibility skills. I thrive when working collaboratively in multicultural teams and have developed excellent communication and interpersonal skills. I am detail-oriented, efficient and analytical by nature, and I have the patience to see my projects through and assess what I've learned each time. 
 
