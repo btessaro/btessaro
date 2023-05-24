@@ -26,7 +26,7 @@ Data Analysis & Visualisation - I use R, Python and Tableau to build visualisati
 
 Check out my data projects on my repositories and my Tableau Dashboards at https://public.tableau.com/app/profile/bruna.tessaro2596. 
 
-Ps.: I believe data analsysis never stops and a dataset can always be analysed from a different perspective, generating new insights. Therefore, I am constantly updating my scripts and adding new bits to my analyses - so be sure to come back to check the updates!
+**Ps.: I believe data analsysis never stops and a dataset can always be analysed from a different perspective, generating new insights. Therefore, I am constantly updating my scripts and adding new bits to my analyses - so be sure to come back to check for updates!**
 
 <!---
 btessaro/btessaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
