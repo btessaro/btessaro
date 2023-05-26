@@ -18,7 +18,7 @@ In the past year, I've added SQL, Python and Tableau to my data toolkit.
 
 I love all aspects of working with data:
 
-Data Architecture & Collection - Designing a database before data collection that will facilitate data analysis is the dream, and I have done that in a few of the projects I've worked on.
+Data Architecture & Collection - Designing a database before data collection that will facilitate data analysis is the dream, and I have done that in a few of the projects I've worked on. I have experience collecting behavioural data.
 
 Data Wrangling - When analysing data, I believe understanding the data at hand and looking at it thoroughly is important to ensure the reliability of the results from any analysis performed. One of the things I love the most is getting the data ready for analysis and R and Python are the main tools I use for that. 
 
