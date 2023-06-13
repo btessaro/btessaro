@@ -3,18 +3,23 @@
 - 👀 I’m interested in using my skills in a data analysis/science position
 - 🌱 Python, R, SQL, NVivo and Tableau
 - :hiking_boot: I love hiking
-- :heart_eyes_cat: I adore cats
 - 📫 How to reach me: btessaro2@gmail.com and [linkedin.com/in/bruna-tessaro/](https://www.linkedin.com/in/bruna-tessaro/)
 
 
 I'm a PhD candidate in Cognitive Science with 10+ years of experience working with multidisciplinary research. Throughout my career, I have gained experience in data collection, analysis and visualisation, and project management. 
 
-Having lived in four different countries (Brazil, Portugal, Australia and the UK) has given me a unique perspective, appreciation and respect for cultural diversity, and has honed my flexibility skills. I thrive when working collaboratively in multicultural teams and have developed excellent communication and interpersonal skills. I am detail-oriented, efficient and analytical by nature, and I have the patience to see my projects through and assess what I've learned each time. 
+Throughout my career, I have honed my communication skills presenting at conferences and teaching. I have also developed my writing skills in writing reports, papers, chapters, a masters and a PhD thesis. Here's a summary at what I have been up to since I started college (you can see an interactive version of this chart and the others on this page at link):
+![Picture 1](https://github.com/btessaro/btessaro/assets/68346837/28437302-0a0a-4a6d-babd-48ed3a3d8604)
+
+
+Having lived in four different countries (Brazil, Portugal, Australia and the UK) has given me a unique perspective, appreciation and respect for cultural diversity, and has honed my flexibility skills. I thrive when working collaboratively in multicultural teams and have developed excellent communication and interpersonal skills.  Along the years, I have collaborated with more than 20 people from 6 different countries (Australia, Brazil, UK, USA, Spain and Canada). I am detail-oriented, efficient and analytical by nature, and I have the patience to see my projects through and assess what I've learned each time.
 
 My experiences have given me a well-rounded understanding of the data analysis lifecycle. Throughout my career I always found myself excited about analysing data - I find it incredibly rewarding to take raw data and turn it into something meaningful. I love the entire data analysis process, from gathering and cleaning the data to visualizing it in order to draw useful insights!
 
 My passion for programming and analysing data started with R. During my PhD I worked with R and RStudio to clean, analyse and visualise my data. I also used NVivo to perform qualitative analysis on survey data, and I subsequently honed these skills in two different projects as a research assistant.
-In the past year, I've added SQL, Python and Tableau to my data toolkit.
+Constantly learning and growing has always been a part of my life, having attended 64 learning events, including workshops and courses to hone my Data Analysis skills:
+
+![tools 1](https://github.com/btessaro/btessaro/assets/68346837/a8103f84-27b1-4bf7-97e6-10dcec5917c0).
 
 I love all aspects of working with data:
 
