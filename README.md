@@ -8,7 +8,7 @@
 
 I'm a PhD candidate in Cognitive Science with 10+ years of experience working with multidisciplinary research. Throughout my career, I have gained experience in data collection, analysis and visualisation, and project management. 
 
-Throughout my career, I have honed my communication skills presenting at conferences and teaching. I have also developed my writing skills in writing reports, papers, chapters, a masters and a PhD thesis. Here's a summary at what I have been up to since I started college:
+Throughout my career, I have honed my communication skills presenting at conferences and teaching. I have also developed my writing skills in writing reports, papers, chapters, a masters and a PhD thesis. Here's a summary at what I have been up to since I started college (you can check an interactive visualisation of my data story [here](https://public.tableau.com/app/profile/bruna.tessaro2596/viz/mydatastory_16866518593090/Dashboard2)):
 ![Picture 1](https://github.com/btessaro/btessaro/assets/68346837/28437302-0a0a-4a6d-babd-48ed3a3d8604)
 
 
@@ -19,7 +19,8 @@ My experiences have given me a well-rounded understanding of the data analysis l
 My passion for programming and analysing data started with R. During my PhD I worked with R and RStudio to clean, analyse and visualise my data. I also used NVivo to perform qualitative analysis on survey data, and I subsequently honed these skills in two different projects as a research assistant.
 Constantly learning and growing has always been a part of my life, having attended 64 learning events, including workshops and courses to hone my Data Analysis skills:
 
-![tools 1](https://github.com/btessaro/btessaro/assets/68346837/a8103f84-27b1-4bf7-97e6-10dcec5917c0).
+![Picture 1](https://github.com/btessaro/btessaro/assets/68346837/2a2b1d18-8ba4-493e-909b-052900d1584e)
+
 
 I love all aspects of working with data:
 
