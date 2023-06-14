@@ -8,7 +8,7 @@
 
 I'm a PhD candidate in Cognitive Science with 10+ years of experience working with multidisciplinary research. Throughout my career, I have gained experience in data collection, analysis and visualisation, and project management. 
 
-Throughout my career, I have honed my communication skills presenting at conferences and teaching. I have also developed my writing skills in writing reports, papers, chapters, a masters and a PhD thesis. Here's a summary at what I have been up to since I started college (you can check an interactive visualisation of my data story [here](https://public.tableau.com/app/profile/bruna.tessaro2596/viz/mydatastory_16866518593090/Dashboard2)):
+Throughout my career, I have honed my communication skills presenting at conferences and teaching. I have also developed my writing skills in writing reports, papers, chapters, a masters and a PhD thesis. Here's a summary at what I have been up to since I started college (you can check an interactive visualisation of my data story [here](https://public.tableau.com/app/profile/bruna.tessaro2596/viz/mydatastory_16866518593090/my-data-story)):
 ![Picture 1](https://github.com/btessaro/btessaro/assets/68346837/28437302-0a0a-4a6d-babd-48ed3a3d8604)
 
 
