@@ -1,5 +1,5 @@
 - :rainbow: Hi, I’m Bruna (she/her)!
-- :books: I'm a Linguist and PhD in Cognitive Science
+- :books: I'm a Linguist by background and have a PhD in Cognitive Science
 - 👀 I’m interested in all things data
 - 🌱 Python, R, SQL, NVivo, Power Bi & Tableau
 - :hiking_boot: I love hiking
